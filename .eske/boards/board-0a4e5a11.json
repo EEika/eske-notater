@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "title": "Områder",
+  "parent": "root",
+  "cards": [],
+  "positions": {},
+  "frames": {
+    "frame-00000001": {
+      "title": "BMA Sikkerhet",
+      "x": 48,
+      "y": 110,
+      "w": 296,
+      "binding": {
+        "tag": "bma-sikkerhet"
+      },
+      "scope": "workspace",
+      "order": []
+    },
+    "frame-00000002": {
+      "title": "Depot / Tieto",
+      "x": 388,
+      "y": 110,
+      "w": 296,
+      "binding": {
+        "tag": "depot-tieto"
+      },
+      "scope": "workspace",
+      "order": []
+    },
+    "frame-00000003": {
+      "title": "Rådgiverportalen",
+      "x": 728,
+      "y": 110,
+      "w": 296,
+      "binding": {
+        "tag": "rådgiverportalen"
+      },
+      "scope": "workspace",
+      "order": []
+    },
+    "frame-00000004": {
+      "title": "Team",
+      "x": 1068,
+      "y": 110,
+      "w": 296,
+      "binding": {
+        "tag": "team"
+      },
+      "scope": "workspace",
+      "order": []
+    }
+  }
+}

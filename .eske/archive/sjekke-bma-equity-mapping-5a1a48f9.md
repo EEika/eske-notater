@@ -7,7 +7,7 @@ created_at = "2026-10-08T07:35:09Z"
 updated_at = "2026-11-16T12:39:32Z"
 title = "Sjekke BMA-equity-mapping"
 tags = ["task"]
-log_seq = 6
+log_seq = 7
 
 [husk]
 defer_count = 2

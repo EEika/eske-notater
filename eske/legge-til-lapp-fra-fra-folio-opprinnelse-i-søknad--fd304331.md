@@ -4,10 +4,10 @@ id = "01a11a70-d095-7012-8cf7-d882fd304331"
 kind = "task"
 state = "open"
 created_at = "2026-10-08T07:36:03Z"
-updated_at = "2026-10-28T10:44:45Z"
+updated_at = "2026-11-16T12:57:11Z"
 title = "Legge til lapp fra 'fra folio' opprinnelse i søknad og lånesøknad"
-tags = ["task"]
-log_seq = 6
+tags = ["rådgiverportalen", "task"]
+log_seq = 7
 
 [husk]
 defer_count = 3

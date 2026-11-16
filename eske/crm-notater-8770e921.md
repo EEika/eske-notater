@@ -4,10 +4,10 @@ id = "01a18309-e9fc-7485-9743-f6088770e921"
 kind = "note"
 state = "open"
 created_at = "2026-10-28T15:03:47Z"
-updated_at = "2026-10-28T15:03:47Z"
+updated_at = "2026-11-16T12:57:11Z"
 title = "CRM Notater"
-tags = ["note"]
-log_seq = 1
+tags = ["note", "rådgiverportalen"]
+log_seq = 3
 
 [husk]
 defer_count = 0

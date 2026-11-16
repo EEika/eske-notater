@@ -4,10 +4,10 @@ id = "01a17772-9ee6-7106-9abb-1388817d3756"
 kind = "note"
 state = "open"
 created_at = "2026-10-26T09:02:42Z"
-updated_at = "2026-10-26T09:02:42Z"
+updated_at = "2026-11-16T12:57:11Z"
 title = "Depotbehov møte - Tieto"
-tags = ["møte", "note", "tieto"]
-log_seq = 1
+tags = ["depot-tieto", "møte", "note", "tieto"]
+log_seq = 3
 
 [husk]
 defer_count = 0

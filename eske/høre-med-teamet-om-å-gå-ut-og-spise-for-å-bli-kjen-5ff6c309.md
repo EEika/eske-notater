@@ -4,10 +4,10 @@ id = "01a1633b-69cb-700d-a548-584f5ff6c309"
 kind = "task"
 state = "done"
 created_at = "2026-10-22T10:50:00Z"
-updated_at = "2026-11-16T11:19:51Z"
+updated_at = "2026-11-16T12:57:11Z"
 title = "Høre med teamet om å gå ut og spise for å bli kjent"
-tags = ["task"]
-log_seq = 5
+tags = ["task", "team"]
+log_seq = 6
 
 [husk]
 defer_count = 0

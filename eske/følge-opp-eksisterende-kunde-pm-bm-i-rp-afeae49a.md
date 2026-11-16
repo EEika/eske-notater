@@ -4,9 +4,9 @@ id = "01a11a70-59a4-7415-ae30-03e3afeae49a"
 kind = "project"
 state = "open"
 created_at = "2026-10-08T07:35:33Z"
-updated_at = "2026-10-12T07:01:40Z"
+updated_at = "2026-11-16T12:57:11Z"
 title = "Følge opp 'eksisterende kunde pm bm' i rp"
-tags = ["task"]
+tags = ["rådgiverportalen", "task"]
 log_seq = 6
 
 [husk]

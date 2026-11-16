@@ -4,10 +4,10 @@ id = "01a13f3a-b20f-771a-b831-39ca8ec7c17e"
 kind = "note"
 state = "open"
 created_at = "2026-10-15T11:02:53Z"
-updated_at = "2026-10-15T11:02:53Z"
+updated_at = "2026-11-16T12:57:10Z"
 title = "BMA Sikkerhets-Mapping"
-tags = ["note"]
-log_seq = 5
+tags = ["bma-sikkerhet", "møte", "note"]
+log_seq = 6
 
 [husk]
 defer_count = 0
