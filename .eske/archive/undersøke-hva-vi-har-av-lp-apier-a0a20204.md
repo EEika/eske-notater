@@ -2,12 +2,12 @@
 schema_version = 3
 id = "01a11a67-1762-72b2-95a6-ca04a0a20204"
 kind = "task"
-state = "done"
+state = "archived"
 created_at = "2026-10-08T07:25:26Z"
-updated_at = "2026-10-13T06:56:02Z"
+updated_at = "2026-11-16T12:39:32Z"
 title = "Undersøke hva vi har av LP-apier"
 tags = ["task"]
-log_seq = 7
+log_seq = 8
 
 [husk]
 defer_count = 1

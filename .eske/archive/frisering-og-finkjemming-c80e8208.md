@@ -2,12 +2,12 @@
 schema_version = 3
 id = "01a1686b-042c-76d2-9156-2f6ac80e8208"
 kind = "task"
-state = "done"
+state = "archived"
 created_at = "2026-10-23T11:00:06Z"
-updated_at = "2026-11-02T07:15:42Z"
+updated_at = "2026-11-16T12:39:33Z"
 title = "Frisering og finkjemming"
 tags = ["møte", "note"]
-log_seq = 6
+log_seq = 7
 
 [husk]
 defer_count = 0

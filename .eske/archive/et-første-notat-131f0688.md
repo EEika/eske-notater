@@ -2,12 +2,12 @@
 schema_version = 3
 id = "01a11670-7720-762b-9cd8-c499131f0688"
 kind = "note"
-state = "done"
+state = "archived"
 created_at = "2026-10-07T12:57:11Z"
-updated_at = "2026-10-13T06:56:33Z"
+updated_at = "2026-11-16T12:39:32Z"
 title = "Et første notat"
 tags = ["note"]
-log_seq = 4
+log_seq = 5
 
 [husk]
 defer_count = 0

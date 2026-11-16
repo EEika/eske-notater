@@ -2,12 +2,12 @@
 schema_version = 3
 id = "01a12f4e-a824-750b-8859-5b13c2a73c2c"
 kind = "task"
-state = "done"
+state = "archived"
 created_at = "2026-10-12T08:50:46Z"
-updated_at = "2026-10-13T08:17:54Z"
+updated_at = "2026-11-16T12:39:32Z"
 title = "Oppdatere standup til å kun dekke BMA Sikkerhet"
 tags = ["task"]
-log_seq = 2
+log_seq = 3
 
 [husk]
 defer_count = 0

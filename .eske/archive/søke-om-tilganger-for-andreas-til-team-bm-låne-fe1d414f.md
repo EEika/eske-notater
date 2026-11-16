@@ -2,12 +2,12 @@
 schema_version = 3
 id = "01a1430c-fd92-7259-87ac-7acafe1d414f"
 kind = "task"
-state = "done"
+state = "archived"
 created_at = "2026-10-16T04:51:27Z"
-updated_at = "2026-10-16T13:36:19Z"
+updated_at = "2026-11-16T12:39:32Z"
 title = "Søke om tilganger for Andreas til Team BM Låne"
 tags = ["task"]
-log_seq = 2
+log_seq = 3
 
 [husk]
 defer_count = 0

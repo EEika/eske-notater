@@ -2,12 +2,12 @@
 schema_version = 3
 id = "01a11a6f-fc5b-75cf-9d46-92575a1a48f9"
 kind = "task"
-state = "done"
+state = "archived"
 created_at = "2026-10-08T07:35:09Z"
-updated_at = "2026-11-02T07:21:02Z"
+updated_at = "2026-11-16T12:39:32Z"
 title = "Sjekke BMA-equity-mapping"
 tags = ["task"]
-log_seq = 5
+log_seq = 6
 
 [husk]
 defer_count = 2
