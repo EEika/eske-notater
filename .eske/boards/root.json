@@ -72,12 +72,6 @@
       "x": 3625,
       "y": 2494
     },
-    "01a1e94c-e372-77d0-a01c-f535725b3b9a": {
-      "x": 3945,
-      "y": 2494,
-      "w": 272,
-      "h": 250
-    },
     "board:board-0a4e5a11": {
       "x": 4265,
       "y": 2494
@@ -94,8 +88,8 @@
   "frames": {
     "frame-751f0ef2": {
       "title": "Gjort",
-      "x": 5123,
-      "y": 2327,
+      "x": 5462,
+      "y": 1489,
       "w": 296,
       "binding": {
         "column": "done"
@@ -112,13 +106,19 @@
         "column": "todo"
       },
       "scope": "board",
-      "order": []
+      "order": [
+        "01a1e94c-e372-77d0-a01c-f535725b3b9a"
+      ]
     },
     "frame-8c6d07c0": {
-      "title": "Frame",
-      "x": 4494,
-      "y": 2009,
+      "title": "Holder på med",
+      "x": 4983,
+      "y": 1490,
       "w": 296,
+      "binding": {
+        "column": "in_progress"
+      },
+      "scope": "board",
       "order": []
     }
   }
