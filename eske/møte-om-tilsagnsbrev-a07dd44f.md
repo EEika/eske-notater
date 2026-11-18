@@ -67,3 +67,5 @@ Tilbudsbrevet er et produkt av hva som ligger i LP.
 Burde være en agent som kun sjekket tilbudsbrevet, uten å bli for ordrik
 
 Problemer med å finne tinglysningsgebyr, oppdatert liste. Høre med kundetjenester om noe kan gjøres / tilgjengeligjøre.
+
+Det fantes ikke egentlig noen api-tjeneste for dette, men var oppdatert så sjeldent at det kunne vært gjort manuelt
