@@ -1,0 +1,4 @@
+# Other tools keep their caches and indexes in this folder; they are not notes.
+**/.bez/
+**/.fastembed_cache/
+**/.DS_Store
