@@ -2,12 +2,12 @@
 schema_version = 3
 id = "01a1e94c-e372-77d0-a01c-f535725b3b9a"
 kind = "task"
-state = "done"
+state = "archived"
 created_at = "2026-11-17T11:38:12Z"
-updated_at = "2026-11-18T07:22:12Z"
+updated_at = "2026-11-25T06:35:58Z"
 title = "Booke bord på Brasiliar"
 tags = ["task"]
-log_seq = 6
+log_seq = 7
 
 [husk]
 defer_count = 0
