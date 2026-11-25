@@ -2,12 +2,12 @@
 schema_version = 3
 id = "01a211b8-e4fa-7686-80af-dacae7e9f7bc"
 kind = "note"
-state = "killed"
+state = "archived"
 created_at = "2026-11-25T08:00:59Z"
-updated_at = "2026-11-25T08:01:13Z"
+updated_at = "2026-11-25T08:03:16Z"
 title = "image"
 tags = ["note"]
-log_seq = 2
+log_seq = 3
 
 [husk]
 defer_count = 0
