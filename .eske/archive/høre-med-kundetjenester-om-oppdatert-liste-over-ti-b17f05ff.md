@@ -2,12 +2,12 @@
 schema_version = 3
 id = "01a1e46e-d509-74c6-b872-6581b17f05ff"
 kind = "task"
-state = "done"
+state = "archived"
 created_at = "2026-11-16T12:57:11Z"
-updated_at = "2026-11-20T08:34:23Z"
+updated_at = "2026-11-27T13:08:33Z"
 title = "Høre med kundetjenester om oppdatert liste over tinglysningsgebyr"
 tags = ["depot-tieto", "task", "tilsagnsbrev"]
-log_seq = 2
+log_seq = 3
 
 [husk]
 defer_count = 0
